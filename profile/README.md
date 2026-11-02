@@ -21,9 +21,11 @@
 
 ## 🐂 About
 
-**Team STIER**는 홍익대학교 자율주행차 동아리입니다. 인지, 측위, 경로 계획, 제어까지 자율주행 스택을 ROS로 직접 만들고 1/5 스케일 차량과 시뮬레이터로 대회에 나가 검증합니다.
+**Team STIER**는 홍익대학교 자율주행차 동아리입니다. 인지, 판단, 제어 자율주행 ROS 스택을 개발하고 1/5 스케일 차량 및 시뮬레이터 대회에 출전합니다.
 
-2026년에는 5개 대회 6개 부문에 출전해 상 6개를 받았습니다. 대회 밖에서는 DiffusionDrive, Alpamayo-R1 같은 End-to-End 자율주행 모델도 함께 공부합니다.
+2026년에는 5개 대회 6개 부문에 출전해 6개의 상을 받았습니다. 대회 밖에서는 DiffusionDrive, Alpamayo-R1 같은 End-to-End 자율주행 모델도 함께 공부합니다.
+
+2027년에는 자율주행과 더불어 로보틱스로 분야를 확장해 운영할 계획입니다.
 
 ## 🏆 Awards & Achievements
 
@@ -56,7 +58,7 @@
       <a href="https://github.com/Team-Stier/MORAI-Autonomous-Driving-System"><img src="/assets/MORAI2026.gif" width="100%" alt="MORAI SIM K-City 회전교차로와 터널을 주행하는 화면과 RViz" /></a>
       <br /><b>2026 대학생 AI·S/W 모빌리티 경진대회</b>
       <br /><sub>2026.10 · 화성 자동차안전연구원 · 본선 2개 팀 출전</sub>
-      <br /><br />가상의 아이오닉5로 실제로 있는 시험장 K-City를 달립니다. 회전교차로, 고주로, GPS가 끊기는 터널까지 구간마다 알고리즘을 바꿔 끼웠고, 제출 2시간 전인 새벽 5시 55분에 마지막 커밋을 올렸습니다.
+      <br /><br />가상의 아이오닉5로 화성시의 자율주행 시험장 K-City를 달립니다. 정·동적 장애물, 신호등, 로타리·고속도로 끼어들기, GPS음영 등의 미션을 수행합니다.
       <br /><br /><code>ROS Noetic</code> <code>C++</code> <code>Hybrid A*</code> <code>MPC</code> <code>YOLO</code>
       <br /><br /><a href="https://github.com/Team-Stier/MORAI-Autonomous-Driving-System">Repo</a> · <a href="https://github.com/Team-Stier/MORAI-UDP-Bridge-Node">UDP Bridge</a>
     </td>
@@ -64,7 +66,7 @@
       <a href="https://github.com/Team-Stier/HL-FMA-1-5-2026"><img src="/assets/HL2026.gif" width="100%" alt="1/5 스케일 차량이 T자 주차를 수행하는 모습" /></a>
       <br /><b>HL Mando FMA 2026 · 1/5 부문</b>
       <br /><sub>2026.09 · 용인운전면허시험장 · 🏅 완주상 2팀</sub>
-      <br /><br />경사로, 신호등, 장애물, T자·평행주차까지 사람 손 없이 통과해야 하는 실차 대회입니다. 밤에는 에버랜드 주차장에서 새벽까지 차를 돌렸고, 두 팀 모두 완주상을 받았습니다.
+      <br /><br />용인운전면허시험장에서 실제 대형 면허시험을 통과해야 하는 실차 대회입니다. 두 팀 모두 완주상을 수상하였습니다.
       <br /><br /><code>ROS Noetic</code> <code>EKF</code> <code>YOLO</code> <code>DBSCAN</code> <code>Pure Pursuit</code>
       <br /><br /><a href="https://github.com/Team-Stier/HL-FMA-1-5-2026">Repo</a>
     </td>
@@ -74,7 +76,7 @@
       <a href="https://github.com/Team-Stier/HL-FMA2026-sim-stier"><img src="/assets/HL-sim2026.gif" width="100%" alt="VTD 시뮬레이터 주행 화면과 Lanelet Cell 격자가 표시된 RViz" /></a>
       <br /><b>HL Mando FMA 2026 · 시뮬레이션 부문</b>
       <br /><sub>2026.09 · VTD 시뮬레이터 · 🏅 장려상 2팀</sub>
-      <br /><br />카메라 없이 지도만 보고 달리는 차를 만들었습니다. 도로를 약 1m 칸으로 나눠 신호와 주변 차량 정보를 지도에 올리면, 차는 그 지도만 읽고 주행합니다.
+      <br /><br />VTD 시뮬레이터 환경에서 주행하는 특권모델을 개발하였습니다. 두 팀 모두 장려상을 수상하였습니다.
       <br /><br /><code>ROS 2 Jazzy</code> <code>C++</code> <code>Lanelet2</code> <code>R-tree</code>
       <br /><br /><a href="https://github.com/Team-Stier/HL-FMA2026-sim-stier">Repo</a>
     </td>
@@ -82,7 +84,7 @@
       <a href="https://github.com/Team-Stier/AMET2026_coex_stier"><img src="/assets/AMET2026.gif" width="100%" alt="코엑스 트랙을 달리는 소형 자율주행차" /></a>
       <br /><b>2026 AMET 자율주행 해커톤</b>
       <br /><sub>2026.08 · 코엑스</sub>
-      <br /><br />코엑스 트랙에서 소형 차로 랩타임을 겨뤘습니다. 시뮬레이션에서 잘 달리던 코드가 실차에서는 트랙을 벗어났고, 입상은 못 했지만 시뮬레이션과 현실의 차이를 제대로 배웠습니다.
+      <br /><br />무박 2일의 시간동안 트랙에서 소형 차로 정적 장애물 회피, 신호등 인식 미션을 개발합니다. 랩타임을 겨루는 대회인 만큼 최적의 인코스 주행이 가능한 SW를 개발하였습니다.
       <br /><br /><code>ROS 2 Jazzy</code> <code>Python</code> <code>Hybrid A*</code> <code>YOLO</code>
       <br /><br /><a href="https://github.com/Team-Stier/AMET2026_coex_stier">Repo</a>
     </td>
@@ -92,7 +94,7 @@
       <a href="https://github.com/Team-Stier/kookmin-Stier1-src"><img src="/assets/kookmin2026.gif" width="100%" alt="Kookmin SIM에서 신호등 앞에 정지했다 출발하는 차량" /></a>
       <br /><b>국민대 자율주행 대회</b>
       <br /><sub>2026.06 · Kookmin SIM</sub>
-      <br /><br />라바콘을 피하고, 신호를 읽고, 라이다로 경찰차를 알아보는 차를 만들었습니다. 회의 메모에 적은 상태 이름이 최종 코드까지 남았고, 커밋 로그에는 "일단 돌아간다"가 그대로 남아 있습니다.
+      <br /><br />라바콘을 피하고, 신호를 읽고, 라이다로 경찰차를 알아보는 차를 만들었습니다. 센서 데이터가 제한된 환경에서 최선의 주행을 완성하였습니다.
       <br /><br /><code>ROS 2</code> <code>YOLO11n</code> <code>OpenCV</code> <code>State Machine</code> <code>Stanley</code>
       <br /><br /><a href="https://github.com/Team-Stier/kookmin-Stier1-src">Repo</a>
     </td>
@@ -100,7 +102,7 @@
       <a href="https://github.com/Team-Stier/JEJU-ROS-autonomous-vehicle"><img src="/assets/JEJU2026.gif" width="100%" alt="제주 대회장에서 라바콘 사이를 주행하는 자율주행차" /></a>
       <br /><b>제5회 국제 대학생 EV 자율주행 경진대회</b>
       <br /><sub>2026.03 · 제주 · 🏅 혁신상, 장려상</sub>
-      <br /><br />제주에서 열린 국제 대학생 대회입니다. 1/5 스케일 차량이 라바콘 사이를 빠져나가도록, 카메라와 LiDAR가 각자 만든 경로 중 상황에 맞는 쪽을 골라 달리게 했습니다.
+      <br /><br />제주에서 열린 국제 대학생 대회입니다. 1/5 스케일 차량이 라바콘 사이를 주행하거나 차선을 인식해 주행합니다. Generator-Selector 구조로 안정적인 스택을 개발하여 장려상과 혁신상을 수상하였습니다.
       <br /><br /><code>ROS 1</code> <code>RRT*</code> <code>Pure Pursuit</code> <code>VLP-16</code> <code>RTK-GNSS</code>
       <br /><br /><a href="https://github.com/Team-Stier/JEJU-ROS-autonomous-vehicle">Repo</a>
     </td>
@@ -232,4 +234,4 @@
 
 ### 2027
 
-**다음 자리는 비어 있습니다.** 지금 멤버도 대부분 기계공학과 학생이고, 자율주행 스택은 대회를 준비하며 같이 만들어 왔습니다. 궁금한 점은 [simonpaik04@gmail.com](mailto:simonpaik04@gmail.com)으로 물어보세요.
+자율주행 및 로보틱스, 피지컬AI에 관심이 있는 기계공학과, 컴퓨터공학과, 전기전자공학과 2,3학년 예정자를 기다립니다. 궁금한 점은 [simonpaik04@gmail.com](mailto:simonpaik04@gmail.com)으로 물어보세요.
