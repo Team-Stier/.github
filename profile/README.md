@@ -1,5 +1,5 @@
 # Team Stier
-> Autonomous Vehicle development clup  
+> Autonomous Vehicle & Robotics development clup  
 > Hongik University, Seoul, South Korea
 
 
