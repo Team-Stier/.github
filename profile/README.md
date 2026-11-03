@@ -32,7 +32,7 @@
 | 대회 | 수상 | 수여일 |
 |---|---|---|
 | **HL Mando Future Mobility Award 2026** · 1/5 부문 | 🏅 완주상 (STIER 1팀, STIER 2팀) | 2026.10.30 |
-| **HL Mando Future Mobility Award 2026** · 시뮬레이션 부문 | 🏅 장려상 (STIER 1팀, 오뎃세이) | 2026.10.30 |
+| **HL Mando Future Mobility Award 2026** · 시뮬레이션 부문 | 🏅 장려상 (STIER 1팀, 오뒷세이) | 2026.10.30 |
 | **제5회 국제 대학생 EV 자율주행 경진대회** · 1/5 부문 | 🏅 혁신상, 장려상 | 2026.03.27 |
 
 <table>
