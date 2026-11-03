@@ -198,6 +198,13 @@
       <img src="https://img.shields.io/badge/Arduino-30363D?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
     </td>
   </tr>
+  <tr>
+    <td><b>CAD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SolidWorks-30363D?style=flat-square&logo=solidworks&logoColor=red" alt="SolidWorks" />
+      <img src="https://img.shields.io/badge/Autodesk_Fusion_(Fusion_360)-30363D?style=flat-square&logo=autodesk&logoColor=0696D7" alt="Autodesk Fusion (Fusion 360)" />
+    </td>
+  </tr>
 </table>
 
 ## 👥 Members
