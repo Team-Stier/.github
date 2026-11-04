@@ -42,7 +42,7 @@
     <td width="33%" align="center"><img width="100%" alt="HL FMA 시뮬레이션 부문 장려상, STIER 1팀" src="/assets/HL-sim-Team1.png" /><br /><sub>HL 시뮬레이션 장려상 · STIER 1팀</sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><img width="100%" alt="HL FMA 시뮬레이션 부문 장려상, 오뎃세이" src="/assets/HL-sim-Team2.png" /><br /><sub>HL 시뮬레이션 장려상 · 오뎃세이</sub></td>
+    <td width="33%" align="center"><img width="100%" alt="HL FMA 시뮬레이션 부문 장려상, 오뒷세이" src="/assets/HL-sim-Team2.png" /><br /><sub>HL 시뮬레이션 장려상 · 오뒷세이</sub></td>
     <td width="33%" align="center"><img width="100%" alt="제5회 국제 대학생 EV 자율주행 경진대회 혁신상" src="/assets/Jeju-2.png" /><br /><sub>EV 경진대회 혁신상</sub></td>
     <td width="33%" align="center"><img width="100%" alt="제5회 국제 대학생 EV 자율주행 경진대회 장려상" src="/assets/Jeju-1.png" /><br /><sub>EV 경진대회 장려상</sub></td>
   </tr>
