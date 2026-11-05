@@ -210,6 +210,7 @@
 ## 👥 Members
 
 ### 2026
+<img width="4294" height="2415" alt="image" src="https://github.com/user-attachments/assets/e3413e7e-93e2-4bf5-b425-3fe1ed72efe7" />
 
 <img src="/assets/group2026.jpg" width="100%" alt="2026 대학생 AI·S/W 모빌리티 경진대회 대회장 앞에서 찍은 Team STIER 단체사진" />
 
